@@ -30,16 +30,37 @@ scenarios
 -agile: Mobile app development; creating a ride-sharing app where features evolve based on customers need.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+software developer
+-responsible for designing, coding and maintaining software applications.
+-They write, test, and debug code based on software requirements.
+QA Engineer
+-ensures that software meets quality standards before release.
+- The design and execute test plans, test cases and test scripts.
+ Project Manager
+  -Oversee the project lifecycle, ensuring it stays on track, within budget and meets business objectives.
+  -They define the project scope , goals and deliverables.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+IDEs:They enhance productivity, improve code quality and fascilitates collaboration.
+an example is Visual studio code
+VSC : they prevent data loss, fascilitates team collaboration and maintain history of modifications.
+an example is GitHub
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+1.debugging and fixing bugs
+-implement unit tests and intergration tests to catch errors early.
+2.Security and data privacy concerns
+-follow a secure coding practicess.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+1. unit:focuses on testing individual functions of the software in isolation to ensure they work correctly
+   -helps detects bugs earlyin the development process
+2.intergration:checks how different components of an application work together
+-identifies defects in module interaction.
+3. System: evaluates the entire application as a whole to verify it meets the specified requirements.
+ -tests the software in an environment similar to production.
+4.Acceptance: determines wheteher the software meets business and user requirements before deployments.
+-ensures the software is ready to be released for end users.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
