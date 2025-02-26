@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the designing, developing, testing and mantaining of software systems. It enables innovation, ensures reliability and scalability, and also enhances security and data protection.
+Software engineering is the designing, developing, testing and mantaining of software systems.It enables innovation, ensures reliability and scalability, and also enhances security and data protection.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1.The birth of software engineering: It was first introduced at the NATO Software Engineering conferencein 1968 where the software crisis was addressed because projects often failed due to poor planning and lack increasing complexity.This led to the adoption of the systematic engineering principles in software development, emphasizing structured programing and project management.
